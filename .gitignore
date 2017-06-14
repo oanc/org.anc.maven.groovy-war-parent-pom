@@ -2,3 +2,6 @@
 tags/
 trunk/
 target/
+*.iml
+*.ipr
+*.iws
